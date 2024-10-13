@@ -7,8 +7,11 @@ faker.seed(99);
 
 const iceCreamProducts = [
   { name: "Delicious Vanilla Swirl", image: "https://i.postimg.cc/yxfh1qtx/chocolate-vanilla-strawberry-ice-cream-isolated-white-807701-3441.jpg" },
-  { name: "Rich Chocolate Chunk", image: "https://i.postimg.cc/9MtLZnRt/client.png" },
+
+  { name: "Rich Chocolate Chunk", image: "https://dodladairy.com/wp-content/uploads/2024/03/icecream-65facbd6d4ff4-1008x1024.webp" },
+
   { name: "Minty Fresh Delight", image: "https://i.postimg.cc/65gRYhNk/360-F-33293692-yxp4-D1y-GAo-U8-Ld-OPqa-Tn1-On-Ry81-B4-Nwt.jpg" },
+
   { name: "Strawberry Sundae Supreme", image: "https://i.postimg.cc/vHgxg663/gourmet-summer-dessert-artisanal-craft-260nw-1647372625.jpg" },
   { name: "Caramel Cookie Crumble", image: "https://i.postimg.cc/ZRnKG18V/image.jpg" },
   { name: "Mango Sorbet Surprise", image: "https://www.shutterstock.com/image-photo/ice-cream-scoop-isolated-on-600w-2290825613.jpg" },
